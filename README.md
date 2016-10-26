@@ -1,5 +1,5 @@
 # Searches
-Contains python implementations of several search algorithms, uninformed and heuristic
+Contains python implementations of several search algorithms, both uninformed and heuristic
 
 **Uninformed** contains an implementation of DFS and BFS, run on a graph of Romania, implemented as a dict.
 
